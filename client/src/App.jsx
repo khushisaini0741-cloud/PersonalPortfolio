@@ -43,8 +43,8 @@ function App() {
             </a>
 
             <a
-              href="/Khushi-Resume.pdf"
-              download="Khushi-Resume.pdf"
+              href="/Khushi.Resume.pdf"
+              download="Khushi.Resume.pdf"
               className="btn resume-btn"
             >
               Download Resume
